@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 import { motion, AnimatePresence } from 'framer-motion';
 import logo from '../../assets/logo-dark.svg';
@@ -19,7 +19,7 @@ const Navbar = () => {
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <a 
-          className="transition-colors duration-200 hover:text-blue-800" 
+          className="transition-colors duration-200 hover:text-blue-300" 
           href="https://www.linkedin.com/in/rosniel-allesta/"
           target="_blank"
           rel="noopener noreferrer"
@@ -28,7 +28,7 @@ const Navbar = () => {
           <FaLinkedin />
         </a>
         <a 
-          className="transition-colors duration-200 hover:text-gray-100" 
+          className="transition-colors duration-200 hover:text-slate-800" 
           href="https://github.com/Ross-cripto/"
           target="_blank"
           rel="noopener noreferrer"
@@ -49,7 +49,7 @@ const Navbar = () => {
               animate={{ y: 0, opacity: 1 }}
               exit={{ y: -10, opacity: 0 }}
               transition={{ duration: 0.2 }}
-              className="text-base font-medium"
+              className="text-base font-medium hover:text-slate-800"
             >
               {isEnglish ? 'EN' : 'ES'}
             </motion.span>
@@ -57,7 +57,6 @@ const Navbar = () => {
         </motion.button>
       </div>
     </nav>
-    
   );
 };
 

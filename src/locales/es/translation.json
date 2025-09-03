@@ -1,13 +1,13 @@
 {
   "hero": {
-    "name": "Rosniel Miguel",
-    "fullStackDeveloper": "Desarrollador Full Stack",
-    "content": "Soy un desarrollador full stack apasionado, especializado en crear aplicaciones web robustas y escalables. Con 3 años de experiencia práctica en tecnologías de punta como React, Next.js, Node.js, Django, PostgreSQL, Redis, Docker, Nest.js y bases de datos SQL y NoSQL, transformo ideas innovadoras en soluciones digitales que impulsan el crecimiento empresarial y ofrecen experiencias de usuario excepcionales."
+    "name": "Maria Victoria",
+    "fullStackDeveloper": "Desarrolladora Python",
+    "content": "Soy desarrolladora Python enfocada en backend: diseño y construyo APIs RESTful y pipelines de datos robustos y escalables. Combino modelado de bases de datos en PostgreSQL, automatización de despliegues con Docker y flujos CI/CD, y buenas prácticas de pruebas y documentación para entregar soluciones mantenibles. He implementado desde algoritmos de similitud de texto y backtesting cuantitativo hasta módulos personalizados en Odoo, transformando requisitos de negocio en software fiable y productivo. Trabajo en entornos remotos con metodologías ágiles y colaboro estrechamente con equipos técnicos y funcionales."
   },
   "about": {
     "title1": "Sobre",
     "title2": "Mí",
-    "text": "Desde muy joven, me ha cautivado la tecnología y sus infinitas posibilidades. Como desarrollador full stack comprometido, combino la creatividad con la experiencia técnica para diseñar y desarrollar aplicaciones web de alto rendimiento y fáciles de usar. Más allá de la programación, mi pasión por la tecnología se refleja en mi canal de YouTube, donde comparto tutoriales, conocimientos y mi trayectoria personal en el mundo tech. Esta plataforma no solo me permite retribuir a la comunidad, sino que también alimenta mi motivación por el aprendizaje continuo, la colaboración y la innovación en cada proyecto que emprendo. Con 3 años de experiencia profesional, he perfeccionado mis habilidades con herramientas y frameworks modernos."
+    "text": "Apasionada por la ingeniería de software y formada en Matemáticas por la Universidad de La Habana, aporto 2 años de experiencia práctica resolviendo problemas complejos con Python. He desarrollado APIs RESTful eficientes, optimizado esquemas y consultas en PostgreSQL, y construido pipelines automatizados para análisis cuantitativo (por ejemplo Crypto-Backtesting) y procesamiento de texto (Text Similarity Finder). Además, diseñé e implementé módulos a medida en Odoo (London-Project), integré facturación electrónica y APIs externas, y realicé análisis exploratorios de datos para extraer insights accionables. Me enfoco en código limpio, pruebas, documentación clara y despliegues reproducibles con Docker y CI/CD, siempre alineando la solución técnica con los objetivos del negocio."
   },
   "technologies": {
     "title": "Tecnologías"
@@ -15,87 +15,63 @@
   "experiences_title": "Experiencias",
   "experiences": [
     {
-      "year": "Febrero 2024 · Presente",
-      "role": "Desarrollador Full Stack",
-      "company": "Desoft",
-      "description": "En Desoft, desarrollo aplicaciones web escalables usando Python, Django, PostgreSQL, Redis, Docker, Nest.js y React.js. Colaboro estrechamente con equipos multifuncionales, valorando la comunicación clara y la confianza mientras construimos soluciones que mejoran verdaderamente la experiencia del usuario y el rendimiento del sistema.",
-      "technologies": ["Django", "PostgreSQL", "React.js"]
-    },
+	  "year": "Febrero 2024 · 2025",
+	  "role": "Desarrolladora Backend",
+	  "company": "Freelance",
+	  "description": "Desarrollé APIs RESTful en Python aplicando principios de escalabilidad y versionado. Modelé y optimicé esquemas y consultas en PostgreSQL, incluyendo procedimientos almacenados. Automatizé procesos de negocio (ventas, contabilidad, CRM). Gestioné entornos con Docker e integré flujos CI/CD con GitHub/Git. Documenté endpoints y generé reportes automatizados.",
+	  "technologies": ["Docker", "PostgreSQL", "APIs RESTful"]
+	},
     {
       "year": "Abril 2024 · Presente",
-      "role": "Desarrollador Back-End",
-      "company": "Innovacion Fiscal MX",
-      "description": "En mi rol en Innovacion Fiscal MX, lideré el desarrollo de software para una plataforma de facturación digital, sirviendo además como Tech Lead y SCRUM Master. Disfruté la oportunidad de trabajar con un equipo dedicado, donde nuestros esfuerzos colaborativos marcaron una diferencia real en las operaciones diarias.",
-      "technologies": ["Django", "PostgreSQL", "Redis", "Docker", "React.js"]
-    },
-    {
-      "year": "Septiembre 2023 · Enero 2025",
-      "role": "Desarrollador Full Stack",
-      "company": "SMC",
-      "description": "En SMC, me enfoqué en diseñar y desarrollar interfaces de usuario usando Next.js y React, colaborando con desarrolladores backend para integrar APIs de Node.js sin fisuras. Esta experiencia profundizó mi apreciación por el diseño centrado en el usuario y la importancia de la mejora continua.",
-      "technologies": ["React.js", "mySQL", "Next.js", "TailwindCSS"]
-    },
-    {
-      "year": "2022 - 2022",
-      "role": "Programador Freelance",
-      "company": "Freelance",
-      "description": "Trabajar como programador freelance me permitió crear soluciones web personalizadas para desafíos reales en diversas comunidades. Esta experiencia práctica no solo fortaleció mis habilidades técnicas, sino que también reforzó el valor de comprender y adaptarme a las necesidades únicas de cada cliente.",
-      "technologies": ["PostgreSQL", "Docker", "Redis", "React.js"]
+      "role": "Desarrolladora en Odoo",
+      "company": "Korean Air Filters(KBA Air Filters)",
+      "description": "En mi rol en KBA Air Filters, desarrollé y personalicé módulos en Odoo empleando Python, XML y JavaScript; implementé automatizaciones de procesos de Ventas e Inventario; implanté la facturación electrónica e integré APIs externas. Además, diseñé dashboards en tiempo real y coordiné directamente con los clientes para recoger requisitos y desplegar soluciones a medida. Trabajé con un equipo dedicado cuya colaboración mejoró las operaciones diarias.",
+      "technologies": ["Odoo", "PostgreSQL", "Docker"]
     }
   ],
-  "youtube": {
-    "title": "Videos de YouTube",
-    "description": "Aquí están algunos de mis videos de YouTube, espero que te gusten!"
-  },
   "project_name": "Proyectos",
   "projects": [
-		{
-			"title": "quebola.ai",
-			"image": "../../assets/projects/quebola.png",
-			"description": "Un chatbot 100% gratis que te ayuda a conocer más sobre Cuba, su cultura, historia y mucho más.",
-			"technologies": ["Next.js", "TailwindCSS", "React.js"],
-			"url": "https://quebola.vercel.app/"
-		},
-		{
-			"title": "Clone to Adwward Page",
-			"image": "path/to/zentry.png",
-			"description": "Este es un clon del sitio web oficial de Zentry. Si tienes una conexión lenta a internet, te sugiero no abrirlo.",
-			"technologies": ["Javascript", "React.js", "TailwindCSS"],
-			"url": "https://ross-adward-clone.vercel.app/"
-		},
-		{
-			"title": "Shoes Store",
-			"image": "path/to/store.png",
-			"description": "Una demo de una landing page para una tienda de zapatos.",
-			"technologies": ["Javascript", "TailwindCSS", "React.js"],
-			"url": "https://store-landing-sable.vercel.app/"
-		},
-		{
-			"title": "Pomodoro App",
-			"image": "path/to/pomodoro.png",
-			"description": "Aplicación Pomodoro minimalista, con interfaz simple, temporizador, notificaciones y función para reproducir música.",
-			"technologies": ["Typescript", "Next.js", "TailwindCSS"],
-			"url": "https://ross-pro-pomodoro.vercel.app/"
-		},
-		{
-			"title": "Nest Series",
-			"image": "path/to/nest.png",
-			"description": "Una compañía de Github con una serie de proyectos usando NestJS, demostrando cómo utilizar NestJS en escenarios del mundo real.",
-			"technologies": ["Typescript", "Nest.js"],
-			"code": "https://github.com/Nest-Microservices-Ross"
-		},
-		{
-			"title": "Django Backend-Ecommerce",
-			"image": "path/to/django.png",
-			"description": "Un proyecto que demuestra cómo usar Django en un backend para ecommerce.",
-			"technologies": ["Python", "Django"],
-			"code": "https://github.com/Ross-cripto/backend-comerce"
-		}
-	],
+    {
+      "title": "Text Similarity Finder",
+      "image": "../../assets/projects/quebola.png",
+      "description": "Este proyecto permite buscar cadenas de texto similares dentro de un conjunto de archivos.",
+      "language": ["Python"],
+      "url": "https://github.com/vickie333/Text-Similarity-Finder"
+    },
+    {
+      "title": "Crypto-Backtesting",
+      "image": "../../assets/projects/quebola.png",
+      "description": "Este proyecto implementa un pipeline completo de análisis cuantitativo sobre el par BTC/USDT",
+      "language": ["Python"],
+      "url": "https://github.com/vickie333/Crypto-Backtesting"
+    },
+    {
+      "title": "London Project",
+      "image": "../../assets/projects/quebola.png",
+      "description": "El London Project Management System es un módulo desarrollado para Odoo 18 destinado a la gestión integral de proyectos y empleados en la empresa London S.A",
+      "language": ["Python"],
+      "technologies": ["Odoo"],
+      "url": "https://github.com/vickie333/London-Project"
+    },
+    {
+      "title": "Analyzing Selling Price of Used Cars",
+      "image": "../../assets/projects/quebola.png",
+      "description": "Este proyecto realiza un análisis exploratorio de datos sobre un conjunto de datos de automóviles. El objetivo es descubrir relaciones entre las características de los vehículos y su precio, mediante limpieza de datos, visualización y análisis estadístico.",
+      "language": ["Python"],
+      "url": "https://github.com/vickie333/Analyzing-Selling-Price-of-used-Cars-"
+    },
+    {
+      "title": "Six Degrees of Separation",
+      "image": "../../assets/projects/quebola.png",
+      "description": "Este proyecto implementa un algoritmo de búsqueda en grafos para encontrar el número mínimo de grados de separación entre dos actores en la industria cinematográfica. Utiliza datos de IMDB para construir un grafo donde los actores son nodos y las películas son aristas, y encuentra la ruta más corta entre dos actores.",
+      "language": ["Python"],
+      "url": "https://github.com/vickie333/Six-Degrees-of-Separation"
+    }
+    ],
   "contact": {
     "title": "Contáctame aquí",
     "address": "Playa, La Habana, Cuba",
-    "phoneNo": "+53 56986319",
-    "email": "r16221639@gmail.com"
+    "phoneNo": "+53 59658895",
+    "email": "mariavictoriaperezcontreras@gmail.com"
   }
 }

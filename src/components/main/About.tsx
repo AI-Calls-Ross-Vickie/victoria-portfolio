@@ -11,9 +11,9 @@ const About: React.FC = () => {
     border-b
     "
 		>
-			<h2 className="my-20 text-center text-4xl">
+			<h2 className="my-20 text-center text-4xl text-slate-500">
 				{t("about.title1")}{" "}
-				<span className="text-neutral-500">{t("about.title2")}</span>
+				<span className="text-neutral-950">{t("about.title2")}</span>
 			</h2>
 			<div className="flex flex-wrap">
 				<motion.div
@@ -37,9 +37,10 @@ const About: React.FC = () => {
 					className="w-full lg:w-1/2"
 				>
 					<div
-						className="flex flex-col items-center 
+						className="flex flex-col items-center text-slate-900
             justify-center
-            lg:justify-start"
+            lg:justify-start
+						"
 					>
 						<p
 							className="my-2 max-w-xl py-6

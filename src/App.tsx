@@ -14,12 +14,9 @@ import YoutubeVideos from "./components/main/YoutubeVideos";
 const App = () => {
 	return (
 		<LanguageProvider>
-			<div className="overflow-x-hidden text-neutral-300 antialiased selection:bg-violet-200 selection:text-cyan-900 ">
+			<div className="overflow-x-hidden text-neutral-300 antialiased selection:bg-violet-100 selection:text-slate-400 ">
 				<div className="fixed top-0 -z-10 h-full w-full">
-					<div className="relative h-full w-full bg-slate-950">
-						<div className="absolute bottom-0 left-[-20%] right-0 top-[-10%] h-[500px] w-[500px] rounded-full bg-[radial-gradient(circle_farthest-side,rgba(255,0,182,.15),rgba(255,255,255,0))]"></div>
-						<div className="absolute bottom-0 right-[-20%] top-[-10%] h-[500px] w-[500px] rounded-full bg-[radial-gradient(circle_farthest-side,rgba(255,0,182,.15),rgba(255,255,255,0))]"></div>
-					</div>
+						<div className="absolute top-0 z-[-2] h-screen w-screen rotate-180 transform bg-white bg-[radial-gradient(60%_120%_at_50%_50%,hsla(0,0%,100%,0)_0,rgba(252,205,238,.5)_100%)]"></div>
 				</div>
 				<div className="container mx-auto px-8">
 					<Navbar />
@@ -27,7 +24,6 @@ const App = () => {
 					<About />
 					<Technologies />
 					<Experiences />
-					<YoutubeVideos />
 					<Projects />
 					<Contact />
 				</div>

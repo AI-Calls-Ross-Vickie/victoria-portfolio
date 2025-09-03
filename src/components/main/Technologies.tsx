@@ -32,7 +32,7 @@ const Technologies = () => {
       whileInView={{opacity: 1, x: 0}}
       initial={{opacity: 0, x: 100}}
       transition={{duration: 1.5}}
-      className="my-20 text-center text-4xl">
+      className="my-20 text-center text-4xl text-slate-950">
         {t('technologies.title')}
       </motion.h2>
       <motion.div
