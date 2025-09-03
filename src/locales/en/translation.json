@@ -33,21 +33,21 @@
 	"projects": [
 		{
 			"title": "Text Similarity Finder",
-			"image": "../../assets/projects/quebola.png",
+			"image": "../../assets/projects/cosine-similarity.jpg",
 			"description": "Este proyecto permite buscar cadenas de texto similares dentro de un conjunto de archivos.",
 			"language": ["Python"],
 			"url": "https://github.com/vickie333/Text-Similarity-Finder"
 		},
 		{
 			"title": "Crypto-Backtesting",
-			"image": "../../assets/projects/quebola.png",
+			"image": "../../assets/projects/cripto.jpg",
 			"description": "Este proyecto implementa un pipeline completo de análisis cuantitativo sobre el par BTC/USDT",
 			"language": ["Python"],
 			"url": "https://github.com/vickie333/Crypto-Backtesting"
 		},
 		{
 			"title": "London-Project",
-			"image": "../../assets/projects/quebola.png",
+			"image": "../../assets/projects/odoo.png",
 			"description": "El London Project Management System es un módulo desarrollado para Odoo 18 destinado a la gestión integral de proyectos y empleados en la empresa London S.A",
 			"language": ["Python"],
 			"technologies": ["Odoo"],
@@ -55,17 +55,25 @@
 		},
 		{
 			"title": "Analyzing Selling Price of Used Cars",
-			"image": "../../assets/projects/quebola.png",
+			"image": "../../assets/projects/analizing-selling.png",
 			"description": "This project performs an exploratory data analysis on an Automobile Dataset. The goal is to discover relationships between vehicle features and their price, using data cleaning, visualization, and statistical analysis",
 			"language": ["Python"],
 			"url": "https://github.com/vickie333/Analyzing-Selling-Price-of-used-Cars-"
 		},
 		{
 			"title": "Six Degrees of Separation",
-			"image": "../../assets/projects/quebola.png",
+			"image": "../../assets/projects/six-degrees.jpg",
 			"description": "This project implements a graph search algorithm to find the minimum number of degrees of separation between two actors in the movie industry. It uses IMDB data to build a graph where actors are nodes and movies are edges, then finds the shortest path between any two actors.",
 			"language": ["Python"],
 			"url": "https://github.com/vickie333/Six-Degrees-of-Separation"
+		},
+		{
+			"title": "Little Lemon Restaurant - Django Web Application",
+			"image": "../../assets/projects/littlelemon.jpg",
+			"description": "This proyect allows customers to view the menu, make reservations, and learn about the restaurant.",
+			"language": ["Python","Html","Css"],
+			"technologies": ["Django"],
+			"url": "https://github.com/vickie333/littlelemon-django"
 		}
 	]
 }

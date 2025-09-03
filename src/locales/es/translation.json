@@ -33,21 +33,21 @@
   "projects": [
     {
       "title": "Text Similarity Finder",
-      "image": "../../assets/projects/quebola.png",
+      "image": "../../assets/projects/cosine-similarity.jpg",
       "description": "Este proyecto permite buscar cadenas de texto similares dentro de un conjunto de archivos.",
       "language": ["Python"],
       "url": "https://github.com/vickie333/Text-Similarity-Finder"
     },
     {
       "title": "Crypto-Backtesting",
-      "image": "../../assets/projects/quebola.png",
+      "image": "../../assets/projects/cripto.jpg",
       "description": "Este proyecto implementa un pipeline completo de análisis cuantitativo sobre el par BTC/USDT",
       "language": ["Python"],
       "url": "https://github.com/vickie333/Crypto-Backtesting"
     },
     {
       "title": "London Project",
-      "image": "../../assets/projects/quebola.png",
+      "image": "../../assets/projects/odoo.png",
       "description": "El London Project Management System es un módulo desarrollado para Odoo 18 destinado a la gestión integral de proyectos y empleados en la empresa London S.A",
       "language": ["Python"],
       "technologies": ["Odoo"],
@@ -55,17 +55,25 @@
     },
     {
       "title": "Analyzing Selling Price of Used Cars",
-      "image": "../../assets/projects/quebola.png",
+      "image": "../../assets/projects/analizing-selling.png",
       "description": "Este proyecto realiza un análisis exploratorio de datos sobre un conjunto de datos de automóviles. El objetivo es descubrir relaciones entre las características de los vehículos y su precio, mediante limpieza de datos, visualización y análisis estadístico.",
       "language": ["Python"],
       "url": "https://github.com/vickie333/Analyzing-Selling-Price-of-used-Cars-"
     },
     {
       "title": "Six Degrees of Separation",
-      "image": "../../assets/projects/quebola.png",
+      "image": "../../assets/projects/six-degrees.jpg",
       "description": "Este proyecto implementa un algoritmo de búsqueda en grafos para encontrar el número mínimo de grados de separación entre dos actores en la industria cinematográfica. Utiliza datos de IMDB para construir un grafo donde los actores son nodos y las películas son aristas, y encuentra la ruta más corta entre dos actores.",
       "language": ["Python"],
       "url": "https://github.com/vickie333/Six-Degrees-of-Separation"
+    },
+    {
+      "title": "Little Lemon Restaurant - Django Web Application",
+      "image": "../../assets/projects/littlelemon.jpg",
+      "description": "Este proyecto allows customers to view the menu, make reservations, and learn about the restaurant.",
+      "language": ["Python","Html","Css"],
+      "technologies": ["Django"],
+      "url": "https://github.com/vickie333/littlelemon-django"
     }
     ],
   "contact": {

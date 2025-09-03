@@ -5,24 +5,24 @@ import { useTranslation } from "../../context/LanguajeContext"
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { projects } from "../../types/projects"
 
-import zentryImg from "../../assets/projects/zentry.webp"
-import storeImg from "../../assets/projects/store.png"
-import pomodoroImg from "../../assets/projects/pomodoro.png"
-import nestImg from "../../assets/projects/nest.jpg"
-import djangoImg from "../../assets/projects/django.jpg"
-import quebolaImg from "../../assets/projects/quebola.ai.png"
+import cosineImg from "../../assets/projects/cosine-similarity.jpg"
+import criptoImg from "../../assets/projects/cripto.jpg"
+import odooImg from "../../assets/projects/odoo.png"
+import analizeImg from "../../assets/projects/analizing-selling.png"
+import degreesImg from "../../assets/projects/six-degrees.jpg"
+import lemonImg from "../../assets/projects/littlelemon.jpg"
 
 interface ImageMap {
   [key: string]: string;
 }
 
 const imageMap: ImageMap = {
-	"quebola.ai": quebolaImg,
-  "Clone to Adwward Page": zentryImg,
-  "Shoes Store": storeImg,
-  "Pomodoro App": pomodoroImg,
-  "Nest Series": nestImg,
-  "Django Backend-Ecommerce": djangoImg,
+	"Text Similarity Finder": cosineImg,
+  "Crypto-Backtesting": criptoImg,
+  "London Project": odooImg,
+  "Analyzing Selling Price of Used Cars": analizeImg,
+  "Six Degrees of Separation": degreesImg,
+  "Little Lemon Restaurant": lemonImg,
 }
 
 const Projects: React.FC = () => {
