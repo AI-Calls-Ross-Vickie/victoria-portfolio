@@ -75,5 +75,11 @@
 			"technologies": ["Django"],
 			"url": "https://github.com/vickie333/littlelemon-django"
 		}
-	]
+	],
+	"contact": {
+    "title": "Contact me here",
+    "address": "Playa, La Habana, Cuba",
+    "phoneNo": "+53 59658895",
+    "email": "mariavictoriaperezcontreras@gmail.com"
+  }
 }

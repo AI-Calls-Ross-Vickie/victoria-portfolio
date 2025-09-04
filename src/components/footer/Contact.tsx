@@ -10,7 +10,7 @@ const Contact: React.FC = () => {
 				whileInView={{ opacity: 1, y: 0 }}
 				initial={{ opacity: 0, y: -100 }}
 				transition={{ duration: 0.5 }}
-				className="my-10 
+				className="my-10 text-slate-900 
       text-center text-4xl"
 			>
 				{t("contact.title")}
@@ -20,7 +20,7 @@ const Contact: React.FC = () => {
 					whileInView={{ opacity: 1, x: 0 }}
 					initial={{ opacity: 0, x: -100 }}
 					transition={{ duration: 0.5 }}
-					className="my-4"
+					className="my-4 text-slate-900"
 				>
 					{t("contact.address")}
 				</motion.p>
@@ -28,12 +28,12 @@ const Contact: React.FC = () => {
 					whileInView={{ opacity: 1, x: 0 }}
 					initial={{ opacity: 0, x: -100 }}
 					transition={{ duration: 0.5 }}
-					className="my-4"
+					className="my-4 text-slate-900"
 				>
 					{t("contact.phoneNo")}
 				</motion.p>
 				<a
-					className="border-b border-neutral-900 pb-4 text-center text-blue-500 hover:text-blue-700"
+					className="border-b  border-neutral-900 pb-4 text-center text-blue-500 hover:text-blue-700"
 					href={`mailto:${t("contact.email")}`}
 				>
 					{t("contact.email")}
