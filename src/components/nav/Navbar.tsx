@@ -20,7 +20,7 @@ const Navbar = () => {
 			<div className="m-8 flex items-center justify-center gap-4 text-2xl">
 				<a
 					className="transition-colors duration-200 hover:text-slate-900 text-slate-500"
-					href="https://github.com/Ross-cripto/"
+					href="https://github.com/vickie333/"
 					target="_blank"
 					rel="noopener noreferrer"
 					title="Github"
