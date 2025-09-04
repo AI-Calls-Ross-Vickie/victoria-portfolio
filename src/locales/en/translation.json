@@ -2,12 +2,12 @@
 	"hero": {
 		"name": "Maria Victoria",
 		"fullStackDeveloper": "Python Developer",
-		"content": "I'm a backend developer specialized in building robust and scalable RESTful APIs using Python and PostgreSQL. With experience in business process automation, Docker deployment, and CI/CD pipeline integration, I focus on building efficient and well-documented technical solutions that align with business objectives. I work in remote environments with agile methodologies, and I enjoy collaborating with both technical and functional teams to deliver high-quality products."
+		"content": "I am a Python developer focused on backend: I design and build robust and scalable RESTful APIs and data pipelines. I combine database modeling in PostgreSQL, deployment automation with Docker and CI/CD flows, and best practices in testing and documentation to deliver maintainable solutions. I have implemented everything from text similarity algorithms and quantitative backtesting to custom Odoo modules, transforming business requirements into reliable and productive software. I work in remote environments with agile methodologies and collaborate closely with technical and functional teams."
 	},
 	"about": {
 		"title1": "About",
 		"title2": "Me",
-		"text": "Since I was very young, I have been captivated by technology and its ability to transform ideas into useful solutions. As a backend developer, I combine creativity and technical rigor to design clear APIs, automations that simplify flows, and architectures that scale securely. My training in Mathematics from the University of Havana gives me a solid foundation in logic and problem-solving; this, together with my specialization in Python and PostgreSQL and my experience in Docker and RESTful APIs, allows me to deliver efficient, well-documented code aligned with business needs. With two years of professional experience, I have honed my skills with modern tools and frameworks."
+		"text": "Passionate about software engineering and trained in Mathematics at the University of Havana, I bring 2 years of hands-on experience solving complex problems with Python. I have developed efficient RESTful APIs, optimized schemas and queries in PostgreSQL, and built automated pipelines for quantitative analysis (e.g., Crypto-Backtesting) and text processing (Text Similarity Finder). In addition, I designed and implemented custom modules in Odoo (London Project), integrated electronic invoicing and external APIs, and performed exploratory data analysis to extract actionable insights. I focus on clean code, testing, clear documentation, and reproducible deployments with Docker and CI/CD, always aligning the technical solution with business goals."
 	},
 	"technologies": {
 		"title": "Technologies"
@@ -34,21 +34,21 @@
 		{
 			"title": "Text Similarity Finder",
 			"image": "../../assets/projects/cosine-similarity.jpg",
-			"description": "Este proyecto permite buscar cadenas de texto similares dentro de un conjunto de archivos.",
+			"description": "This project allows searching for similar text strings within a set of files.",
 			"language": ["Python"],
 			"url": "https://github.com/vickie333/Text-Similarity-Finder"
 		},
 		{
 			"title": "Crypto-Backtesting",
 			"image": "../../assets/projects/cripto.jpg",
-			"description": "Este proyecto implementa un pipeline completo de análisis cuantitativo sobre el par BTC/USDT",
+			"description": "This project implements a full quantitative analysis pipeline on the BTC/USDT pair.",
 			"language": ["Python"],
 			"url": "https://github.com/vickie333/Crypto-Backtesting"
 		},
 		{
 			"title": "London-Project",
 			"image": "../../assets/projects/odoo.png",
-			"description": "El London Project Management System es un módulo desarrollado para Odoo 18 destinado a la gestión integral de proyectos y empleados en la empresa London S.A",
+			"description": "The London Project Management System is a module developed for Odoo 18 designed for comprehensive project and employee management at London S.A.",
 			"language": ["Python"],
 			"technologies": ["Odoo"],
 			"url": "https://github.com/vickie333/London-Project"

@@ -70,7 +70,7 @@
     {
       "title": "Little Lemon Restaurant - Django Web Application",
       "image": "../../assets/projects/littlelemon.jpg",
-      "description": "Este proyecto allows customers to view the menu, make reservations, and learn about the restaurant.",
+      "description": "Este proyecto permite a los clientes ver el menú, hacer reservaciones y conocer el restaurante.",
       "language": ["Python","Html","Css"],
       "technologies": ["Django"],
       "url": "https://github.com/vickie333/littlelemon-django"
