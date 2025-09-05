@@ -5,7 +5,7 @@
     <img src="src/assets/logo-dark.svg" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Ross Portfolio Template</h3>
+  <h3 align="center">Vickie Portfolio Template</h3>
 
   <p align="center">
     An awesome Portfolio template to jumpstart your proffesional projects!
@@ -19,12 +19,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](src/assets/screenshot.png)
+![alt text](src/assets/screenshot.jpg)
 
 This is a minimalist portfolio template that you can use to create your own portfolio. It is built with React and Vite, and it is fully responsive. You can easily customize it to fit your needs.
 
 Here's why:
-* You should use this template to create your own portfoliom and showcase your work.
+* You should use this template to create your own portfolio and showcase your work.
 * You should use this, and dont start building your portfolio from scratch.
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. 
@@ -90,7 +90,7 @@ See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rosniel Allesta  r16221639@gmail.com
+Maria Victoria  mariavictoriaperezcontreras@gmail.com
 
 Project Link: https://portfolio-ross.vercel.app/
 
